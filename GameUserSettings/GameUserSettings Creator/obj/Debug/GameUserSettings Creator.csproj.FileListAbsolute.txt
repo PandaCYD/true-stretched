@@ -1,0 +1,10 @@
+E:\Programacion\Visual Studio\GameUserSettings\GameUserSettings Creator\bin\Debug\GameUserSettings Creator.exe.config
+E:\Programacion\Visual Studio\GameUserSettings\GameUserSettings Creator\bin\Debug\GameUserSettings Creator.exe
+E:\Programacion\Visual Studio\GameUserSettings\GameUserSettings Creator\bin\Debug\GameUserSettings Creator.pdb
+E:\Programacion\Visual Studio\GameUserSettings\GameUserSettings Creator\obj\Debug\GameUserSettings Creator.csproj.AssemblyReference.cache
+E:\Programacion\Visual Studio\GameUserSettings\GameUserSettings Creator\obj\Debug\GameUserSettings_Creator.Properties.Resources.resources
+E:\Programacion\Visual Studio\GameUserSettings\GameUserSettings Creator\obj\Debug\GameUserSettings Creator.csproj.GenerateResource.cache
+E:\Programacion\Visual Studio\GameUserSettings\GameUserSettings Creator\obj\Debug\GameUserSettings Creator.csproj.CoreCompileInputs.cache
+E:\Programacion\Visual Studio\GameUserSettings\GameUserSettings Creator\obj\Debug\GameUserSettings Creator.exe
+E:\Programacion\Visual Studio\GameUserSettings\GameUserSettings Creator\obj\Debug\GameUserSettings Creator.pdb
+E:\Programacion\Visual Studio\GameUserSettings\GameUserSettings Creator\obj\Debug\GameUserSettings_Creator.Settings_for_resolutions.resources
